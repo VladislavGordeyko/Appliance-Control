@@ -3,7 +3,6 @@
 This is frontend for Appliance-Control task
 
 ## Project running 
-<hr>
 
 Create .env and add variable REACT_APP_API_HOST, then install packages
 ```
@@ -17,5 +16,4 @@ To run project
 
 
 ## Project Description
-<hr>
 Stack - React, Typescript, Tailwind
